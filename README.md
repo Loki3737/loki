@@ -2,6 +2,13 @@ CopyTrack
 Version: 1.0
 Author: Loki
 
+## Download
+
+Due to GitHub file size limits, the CopyTrack installer is hosted externally.  
+You can download it here:
+
+[Download CopyTrack Installer (37 MB)](https://drive.google.com/file/d/1xDfQbk9jvID241-IusL1oGerLlfhORmo/view?usp=drive_link)
+
 What is CopyTrack?
 CopyTrack is a lightweight and minimal clipboard logger that automatically records every piece of text you copy. It saves your clipboard history to a simple, easy-to-access file, helping you keep track of copied content effortlessly.
 
