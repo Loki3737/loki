@@ -1,43 +1,49 @@
 CopyTrack
-Version: 1.0
-Author: Loki
-
-## Download
-
-Due to GitHub file size limits, the CopyTrack installer is hosted externally.  
-You can download it here:
-
-[Download CopyTrack Installer (37 MB)](https://drive.google.com/file/d/1xDfQbk9jvID241-IusL1oGerLlfhORmo/view?usp=drive_link)
+CopyTrack is a lightweight and minimal clipboard logger that automatically records every piece of text you copy. It saves your clipboard history to a simple, easy-to-access text file on your desktop.
 
 What is CopyTrack?
-CopyTrack is a lightweight and minimal clipboard logger that automatically records every piece of text you copy. It saves your clipboard history to a simple, easy-to-access file, helping you keep track of copied content effortlessly.
+CopyTrack helps you keep track of everything you copy throughout the day — with no interface, no distractions, and no configuration required.
 
 Features
 Automatically logs all copied text
 
-Stores clipboard history in a plain text file
+Stores clipboard history in a plain .txt file on your desktop
 
-Minimal and distraction-free
+Runs silently in the background
 
-Easy to install and use
+Starts automatically with Windows
 
-Perfect for developers, writers, students, and everyday users
+No setup or configuration needed
 
 Installation
-Download the latest installer from the Releases page and run the setup.
+Download the latest installer from the Releases section.
+
+Run the setup file.
+
+CopyTrack will install itself and start in the background.
+
+After installation:
+
+The program will launch automatically at startup
+
+A file named CopyTrack.txt will be created on your desktop to store clipboard history
 
 Usage
-Once installed, CopyTrack runs in the background and logs all copied text automatically. The log file is saved in the application directory (or a configurable location).
+Once installed, CopyTrack runs quietly in the background. Every time you copy text, it will be logged with a timestamp into CopyTrack.txt on your desktop.
+
+No interface is shown, and no action is required — just copy and go.
 
 License
 CopyTrack is released under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
-You may modify the software, but the original file copytrack.py must remain unchanged. All modifications should be made in separate files or modules.
+Commercial use is not allowed
 
-Commercial use is strictly prohibited.
+You may modify the software, but the original file copytrack.py must remain unchanged
+
+All modifications must be made in separate files or modules
 
 Contributing
-Contributions and suggestions are welcome! Please create separate files for any modifications.
+Contributions and suggestions are welcome. Please ensure any changes are kept separate from the original core file.
 
 Contact
-For questions or support, please open an issue on GitHub or contact Loki.
+For questions or support, open an issue on GitHub or contact Loki directly.
