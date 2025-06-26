@@ -1,4 +1,3 @@
-CopyTrack
 CopyTrack is a lightweight and minimal clipboard logger that automatically records every piece of text you copy. It saves your clipboard history to a simple, easy-to-access text file on your desktop.
 
 What is CopyTrack?
