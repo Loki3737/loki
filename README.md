@@ -17,7 +17,7 @@ No setup or configuration needed
 
 Installation
 You can download the installer directly from this link:
-Download CopyTrack
+[Download CopyTrack](https://drive.google.com/uc?export=download&id=1eqdmBOwme-8_ZkJ785N5jomzo8dcI-SL)
 
 After downloading the file:
 
