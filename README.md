@@ -15,7 +15,7 @@ Starts automatically with Windows
 No setup or configuration needed
 
 Installation
-To download CopyTrack, visit the Releases page on GitHub.
+To download CopyTrack, visit the Releases page on GitHub at this link https://github.com/Loki3737/loki/releases/tag/1.0
 
 After downloading the setup file:
 
