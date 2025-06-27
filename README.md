@@ -4,7 +4,6 @@ What is CopyTrack?
 CopyTrack helps you keep track of everything you copy throughout the day — with no interface, no distractions, and no configuration required.
 
 Features
-
 Automatically logs all copied text
 
 Stores clipboard history in a plain .txt file on your desktop
@@ -16,17 +15,15 @@ Starts automatically with Windows
 No setup or configuration needed
 
 Installation
-You can download the installer directly from this link:
-[Download CopyTrack](https://drive.google.com/uc?export=download&id=1eqdmBOwme-8_ZkJ785N5jomzo8dcI-SL)
+To download CopyTrack, visit the Releases page on GitHub.
 
-After downloading the file:
+After downloading the setup file:
 
-Run the setup file
+Run the installer
 
-CopyTrack will install itself and start running in the background automatically
+CopyTrack will install itself and start running silently in the background
 
-After installation:
-
+After installation
 The program will launch automatically at startup
 
 A file named CopyTrack.txt will be created on your desktop to store clipboard history
@@ -49,4 +46,3 @@ Contributions and suggestions are welcome. Please ensure any changes are kept se
 
 Contact
 For questions or support, open an issue on GitHub or contact Loki directly.
-
